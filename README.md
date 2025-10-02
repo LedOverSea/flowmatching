@@ -7,6 +7,9 @@
 - `src/conditional-flow-matching-main` 2302.00482v4,2307.03672v3的源代码
   - `/flowmatching.ipynb` 复现笔记本
 
-
 # 备注
-ipynb文件均在kaggle上运行, 项目初始化的命令行代码仅在kaggle使用, 不能在本地直接运行
+项目初始化的命令行代码仅在kaggle使用, 不能在本地直接运行
+
+# 鸣谢
+https://github.com/atong01/conditional-flow-matching
+https://github.com/facebookresearch/flow_matching
