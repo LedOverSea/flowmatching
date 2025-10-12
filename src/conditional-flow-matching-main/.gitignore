@@ -174,7 +174,7 @@ notebooks/figures/
 
 # Ignore models directory in examples/images
 # 屏蔽训练好的模型
-examples/images/models/
+models/
 
 # 屏蔽下载的数据集
 examples/data
